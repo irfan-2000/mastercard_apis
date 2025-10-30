@@ -1,0 +1,22 @@
+{
+  "quoterequest": {
+    "TransactionReference": null,
+    "additional_data": null,
+    "sender_account_uri": "tel:+2130000",
+    "recipient_account_uri": "tel:+213070001",
+    "payment_amount": {
+      "currency": "USD",
+      "amount": "100"
+    },
+    "quote_type": {
+      "reverse": {
+        "sender_currency": "USD"
+      },
+      "forward": null
+    },
+    "payment_origination_country": "USD",
+    "payment_type": "P2P",
+    "transaction_reference": "081761730390743ACRQ",
+    "bank_code": null
+  }
+}
